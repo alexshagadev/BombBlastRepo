@@ -1,0 +1,1 @@
+Unity projects are too big to commit onto GitHub in their full form, so I have committed the assets folder directly (which has all of the code and assets), and I will also provide an external .zip containing the full project (Erupt.zip).
